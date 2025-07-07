@@ -1,0 +1,33 @@
+.body{
+    padding-left: 35px;    
+    border :5px solid black;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: left;
+}
+.developer{
+    color: green;
+}
+.skill{
+    color:green;
+}
+.edu{
+    color: green;
+}
+.school{
+    color: darkblue;
+}
+.exp{
+    color: green;
+}
+.company1{
+    color: darkblue;
+}
+.company2{
+    color: darkblue;
+}
+.across{
+    color: green;
+}
+.exp2{
+    color: green;
+}
